@@ -1,0 +1,145 @@
+
+.logoAngular{
+  width: 18%;
+  margin-right: 2%;
+}
+
+.bar1{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 3%;
+}
+
+
+.logoJavaEE{
+  width: 18%;
+  margin-right: 2%;
+}
+
+.bar2{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 6%;
+}
+
+
+.logoGitHub{
+  width: 20%;
+}
+
+.bar3{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+
+.logoDocker{
+  width: 18%;
+  margin-right: 2%;
+}
+
+.bar4{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 8%;
+}
+
+
+.logoPLSQL{
+  width: 18%;
+  margin-right: 2%;
+  margin-top: 3%;
+}
+
+.bar5{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 6%;
+}
+
+
+
+.logoFirebase{
+  width: 20%;
+  /* margin-right: 2%; */
+  margin-top: 6%;
+}
+
+.bar6{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 8%;
+}
+
+
+.logoTrello{
+  width: 20%;
+  /* margin-right: 2%; */
+  margin-top: 4%;
+}
+
+.bar7{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 8%;
+}
+
+
+.logoHTMLCSS{
+  width: 17%;
+  margin-right: 2%;
+  margin-top: 3%;
+}
+
+.bar8{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 6%;
+}
+
+
+.logoBootstrap{
+  width: 17%;
+  margin-right: 2%;
+  margin-top: 3%;
+}
+
+.bar9{
+  width: 78%;
+  margin-left: 2%;
+  margin-top: 6%;
+}
+
+
+
+
+
+
+
+.box1C1{
+  width: 50%;
+}
+
+.box2C1{
+  width: 50%;
+}
+
+#logoPlatzi{
+  width: 50%;
+  margin-left: 10%;
+}
+
+#logoUdemy{
+  width: 100%;
+  margin-left: 0%;
+}
+
+
+#box1C2{
+  text-align: center;
+}
+
+.box2C2{
+
+}

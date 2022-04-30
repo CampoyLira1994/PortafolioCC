@@ -1,0 +1,87 @@
+:root{
+  --color_texto: cornflowerblue;
+}
+
+/* You can add global styles to this file, and also import other style files */
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+ .container {
+  display: flex;
+  flex-wrap: wrap;
+
+  /*border: 0.3rem solid black;
+  align-items: baseline;
+  height: 50vh;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0; */
+}
+
+/*
+.box {
+  width: 10rem;
+  flex-basis: 10rem;
+  flex-grow: 1;
+}
+
+.box1 {
+  background-color: cornflowerblue;
+  order: 1;
+}
+
+.box2 {
+  background-color: blueviolet;
+}
+
+.box3 {
+  background-color: burlywood;
+}
+
+.box4 {
+  background-color: cadetblue;
+}
+
+.box5 {
+  background-color: coral;
+}
+
+.box6 {
+  background-color: salmon;
+} */
+
+
+@media (min-width: 600px){
+
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+
+    /*border: 0.3rem solid black;
+    align-items: baseline;
+    height: 50vh;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0; */
+  }
+
+}

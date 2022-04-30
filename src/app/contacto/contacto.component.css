@@ -1,0 +1,24 @@
+#fondo{
+  background: url("../../assets/img/caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg");
+  width: 100%;
+}
+
+#text{
+  color: aliceblue;
+  text-align: center;
+}
+
+
+#card1{
+  float: left;
+}
+
+#card2{
+  float: right;
+}
+
+
+.contenido{
+  margin-right: 5%;
+  margin-left: 5%;
+}
